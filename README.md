@@ -4,6 +4,11 @@
 
 PostureCoach uses MediaPipe Pose to analyze body landmarks, classify posture, and provide instant feedback. Its optional AI Coach offers personalized ergonomic suggestions using the Hugging Face Inference API.
 
+## 📸 Application Screenshot
+
+![Hospital AI Chatbot](PostureCoach.png)
+
+
 ## ✨ Features
 
 - 📷 **Real-time camera analysis** — Detects 33 body landmarks using MediaPipe Pose and analyzes shoulder, neck, and torso angles.
